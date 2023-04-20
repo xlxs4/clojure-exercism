@@ -39,5 +39,6 @@
       (count-languages)))
 
 ;;; Notes
-;; -> is nifty.
-;; ->> too.
+;; 1) Note how, depending on the data structures, there's rest/pop, cons/conj, etc.
+;; 2) -> is nifty.
+;; 3) ->> too.
