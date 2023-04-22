@@ -17,3 +17,5 @@
 ;; 3) I could have defined some private functions with defn- and chain them
 ;;    instead of doing that inside the let block. However, this seems
 ;;    more concise and pretty idiomatic to me.
+;; 4) Exponentiation is also (as everything) not straightforward:
+;; https://stackoverflow.com/questions/5057047/how-to-do-exponentiation-in-clojure
